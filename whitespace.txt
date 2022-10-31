@@ -1,0 +1,4 @@
+https://codegolf.stackexchange.com/a/194067/106844
+https://codegolf.stackexchange.com/questions/12174/golf-you-a-double-quine-for-greater-good
+https://hackage.haskell.org/package/whitespace-0.4/src/docs/tutorial.html
+”ṘṘ
